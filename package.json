@@ -1,0 +1,14 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cache-service-cache-module": "^2.0.1",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.15.2",
+    "node-xlsx": "^0.15.0",
+    "puppeteer": "^1.19.0",
+    "superagent": "^5.1.0",
+    "superagent-cache-plugin": "^2.0.1"
+  }
+}
